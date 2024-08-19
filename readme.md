@@ -1,2 +1,3 @@
 ## Model
-Features: Map, Opponent, kills, ACS, 
+Features: Map, Player
+Output: ACS
